@@ -83,9 +83,7 @@ dashboard.filter_transactions(genre="Fiction")
 
 You can change `"Fiction"` to another genre available in your CSV file.
 
-## 🖼️ Output Screenshots
 
-Add your program output screenshots here:
 
 ### 📊 Statistics Output
 
